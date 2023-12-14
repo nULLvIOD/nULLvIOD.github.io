@@ -2,7 +2,7 @@
 test test
 <input type="password" id="password">
 <button class="decrypt">Decrypt</button>
-<script>
+<script>    
     var myEncryptedPage = '<html-string-pre-encrypted-with-your-password>';
     $('.decrypt').click(function(){
         var password = $('#password').val();
