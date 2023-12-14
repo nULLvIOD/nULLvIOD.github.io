@@ -1,5 +1,7 @@
 # nULLvIOD.github.io
 test test
-<head> this is a header </head>
+<head> 
+  <title>this is a header</title>  
+</head>
 
 <body>This is the body</body>
